@@ -1,3 +1,11 @@
+fork by jo-cho
+
+I updated for pytorch 2.1.1, python 3.8
+and add some examples.
+
+
+========================
+
 # 파이토치로 배우는 자연어 처리
 
 ![cover](cover.jpeg)
